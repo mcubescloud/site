@@ -1,30 +1,30 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://mcubescloud.tk"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : MCUBES-Cloud
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Mcubes Mdy
+    description : Blogger, Freelauncher, Cloud, Scripting and Developer
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2017-12-01
+        end : Till date
+        experience : L&T, Cloud Engineer
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Cloud, CICD, Script & Full Stack
+        value : 90  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email: mcubesmdy@gmail.com  # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: mdy007
     gitlab: 
     bitbucket: 
     google_plus:
