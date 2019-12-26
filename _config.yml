@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/getProfileImage.png
     username : Mcubes Mdy
     description : Blogger, Freelauncher, Cloud, Scripting and Developer
     experience :
