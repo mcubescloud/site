@@ -10,7 +10,7 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/getProfileImage.png
-    username : Mcubes Mdy
+    username : Mohamed.S
     description : Blogger, Freelauncher, Cloud, Scripting and Developer
     experience :
       - start : 2016-12-01
