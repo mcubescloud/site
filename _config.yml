@@ -18,7 +18,7 @@ theme_settings :
         experience : Puc, L&T. Cloud Engineer
     skills : 
       - skill : AWS, GCP and AZURE
-        skill : Docker,kubernetes
+              : Docker,kubernetes
         value : 90  # Percent value
         
   # Icons
