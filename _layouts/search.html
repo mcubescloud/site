@@ -1,89 +1,11 @@
-<style type="text/css">
-    #hbz-searchbox {
-        height: 40px;
-        position: relative;
-        min-width: 250px;
-        max-width: 300px;
-        margin: 10px auto;
-    }
-   
-    .hbz-buttonwrap {
-        border: none;
-        width: 14%;
-        height: 35px;
-        display: block;
-        position: absolute;
-        top: 0;
-        right: 0;
-        background: #009bff;
-        cursor: pointer;
-        border-bottom: 5px solid #0276c1;
-    }
-   
-    .hbz-buttonwrap:hover {
-        border-bottom: 5px solid #bc490a;
-        background: #d75813;
-    }
-   
-    .hbz-submit {
-        width: 35px;
-        height: 35px;
-        background: transparent;
-        cursor: pointer;
-        position: absolute;
-        right: 50%;
-        top: 50%;
-        margin-top: -17.5px;
-        margin-right: -17.5px;
-        border: none;
-    }
-   
-    .hbz-submit:after {
-        content: '';
-        position: absolute;
-        width: 8px;
-        height: 8px;
-        border: 2px solid white;
-        border-radius: 50%;
-        left: 10px;
-        top: 9px;
-        box-sizing: content-box;
-    }
-   
-    .hbz-submit:before {
-        content: '';
-        position: absolute;
-        height: 8px;
-        width: 2px;
-        background: white;
-        transform: rotate(-35deg);
-        top: 19px;
-        left: 21px;
-    }
-   
-    #hbz-input {
-        height: 32px;
-        width: 82%;
-        position: absolute;
-        padding-left: 4%;
-        border: none;
-        outline: none;
-        right: 14%;
-        border-bottom: 5px solid #bbb;
-        border-left: 1px solid #eaeaea;
-        background-color: #fbfbfb;
-        border-top: 1px solid #eaeaea;
-        box-shadow: 1px 1px 2px #e9e4e4 inset;
-    }
-   
-    #hbz-input:focus,
-    #hbz-input:active {
-        background-color: #fff;
-    }
-</style>
+---
+layout: page
+---
 
-<form action="/search" id="hbz-searchbox" method="get">
-    <span class="hbz-buttonwrap"><button class="hbz-submit" value="" type="submit"></button></span>
-    <input type="text" name="q" id="hbz-input" placeholder="Type here ..." />
-    <input type="hidden" name="max-results" value="8" />
+{{ content }}
+
+<form onsubmit="return false;">
+  <input type="input" id="search" class="search-input" placeholder="{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" autofocus>
 </form>
+
+<div id="results"></div>
