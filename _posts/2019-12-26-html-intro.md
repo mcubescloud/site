@@ -15,9 +15,9 @@ This site is full and full created with love and craze on Cloud and Launguages.
 I will try to publish fruitfull contents on this vast Cloud Universe.
 With all your blessing, i am warm welcoming into the space of cloud.
 
-## GodBless
-## Peace.
+# GodBless
+# Peace.
 
-By
+# By
 ## Mcubes
 
