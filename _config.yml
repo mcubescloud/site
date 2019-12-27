@@ -15,7 +15,7 @@ theme_settings :
     experience :
       - start : 2017-12-01
         end : Till date
-        experience : L&T, Cloud Engineer
+        experience : Puc, L&T. Cloud Engineer
     skills : 
       - skill : Cloud, CICD, Script & Full Stack
         value : 90  # Percent value
