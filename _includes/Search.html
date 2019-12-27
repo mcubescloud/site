@@ -1,0 +1,55 @@
+<section id="Search">
+  <div class="Search-wrap">
+    <p class="title">Search 🙋🏻</p>
+    <div class="card-container">
+      {% for _ in site.data.Search %}
+      {% assign Search = _.Search %}
+      {% assign id = id | plus: 1 %}
+      <div class="card-wrapper">
+        <div class="card">
+          {% if Search.image %}
+          <div class="img-wrap">
+            <img src="{{ site.url }}/assets/Project/{{ Search.image }}" alt="">
+          </div>
+          {% endif %}
+          <div class="text-wrap {% if Search.image %}{% endif %}">
+            <div class="title-wrap">
+              <p class="date">{{ Search.date }}</p>
+              <div class="title">{{ Search.title }}</div>
+            </div>
+            <div class="meta">
+              {% if Search.skills %}
+              &middot;
+              {% for skill in Search.skills %}
+              <span>#{{ skill }}</span>
+              {% endfor %}
+              {% endif %}
+            </div>
+            <div class="description">{{ Search.description }}</div>
+          </div>
+          <div class="icons">
+            {% if Search.url %}
+            {% assign url = Search.url %}
+            <a href="{{ url }}/subscription"><i class="far fa-eye"></i></a>
+            <a href="{{ url }}"><i class="fas fa-star"></i></a>
+            <a href="{{ url }}/fork"><i class="fas fa-code-branch"></i></a>
+            {% endif %}
+            {% if Search.modal %}
+            <a title="{{ id }}" onClick="open_modal(this.title)" class="modal-btn"><i class="fas fa-plus"></i></a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      <!-- Modal Box -->
+      {% if Search.modal %}
+      {% include modal.html %}
+      {% endif %}
+      <!-- Modal Box -->
+      {% endfor %}
+    </div>
+  </div>
+  <div class="bg"></div>
+</section>
+
+<!-- modal -->
+<script type="text/javascript" src="{{ site.url }}/assets/js/modal.js"></script>
