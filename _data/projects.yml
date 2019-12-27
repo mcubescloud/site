@@ -10,7 +10,7 @@
     contents :
         - title : 1. RIMS
           image : design-a-successful-client-meeting.jpg
-          description : Linux,Windows and Networking 
+          description : <li>
 NETWORKING :
  Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring 
 Router and Switches, Switch configuration VLAN, Routing Protocol(RIP,EIGRP,OSPF), 
