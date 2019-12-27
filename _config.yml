@@ -1,0 +1,52 @@
+# Site Settings
+baseurl: ""
+url : "https://mcubescloud.tk"
+
+# Blog Settings
+theme_settings :
+  title : MCUBES-Cloud
+  favicon : assets/favicon.ico
+
+  # Profile Settings
+  profile :
+    image : assets/img/getProfileImage.png
+    username : Mcubes Mdy
+    description : Blogger, Freelauncher, Cloud, Scripting and Developer
+    experience :
+      - start : 2017-12-01
+        end : Till date
+        experience : L&T, Cloud Engineer
+    skills : 
+      - skill : Cloud, CICD, Script & Full Stack
+        value : 90  # Percent value
+        
+  # Icons
+  icons :
+    email: mcubesmdy@gmail.com  # Full email address, e.g. "sample@google.com"
+    linkedin:  # Full URL 
+    github: mdy007
+    gitlab: 
+    bitbucket: 
+    google_plus:
+    twitter:
+    youtube:
+    facebook:
+    instagram:
+
+  # Disqus
+  disqus_shortname : Mcubes
+  
+  # Search
+  search_full_content: true
+
+# Pagination
+paginate: 5
+paginate_path: "blog/page:num"
+
+# Build Ssttings
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
+bootstrap:
+  assets: true
