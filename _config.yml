@@ -17,7 +17,8 @@ theme_settings :
         end : Till date
         experience : Puc, L&T. Cloud Engineer
     skills : 
-      - skill : Cloud, CICD, Script & Full Stack
+      - skill : AWS, GCP and AZURE
+        skill : Docker,kubernetes
         value : 90  # Percent value
         
   # Icons
