@@ -9,7 +9,7 @@
     description : This project is my first dedicated project.  
     contents :
         - title : 1. SG-Ecommerce
-          image : assets/project/design-a-successful-client-meeting.jpg
+          image : design-a-successful-client-meeting.jpg
           description : <li>Worked as Infra Engineer.</li>
             <li>Troubleshooted the server and cloud operations.</li> 
             <li>Worked on deployment with Automation tools.</li> 
