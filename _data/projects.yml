@@ -8,7 +8,7 @@
     summary : Monitoring to Deployment
     description : Please find the journey of inter to full time Operation Engineer
     contents :
-- title : 1. RIMS
+        - title : 1. RIMS
           image : design-a-successful-client-meeting.jpg
           description : Linux,Windows and Networking 
 NETWORKING :
@@ -30,7 +30,7 @@ Configuration.
     
 
 contents :
-        - title : 1. SG-Ecommerce
+        - title : 2. SG-Ecommerce
           image : design-a-successful-client-meeting.jpg
           description : <li>Worked as Infra Engineer.</li>
             <li>Troubleshooted the server and cloud operations.</li> 
