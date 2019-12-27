@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Mcubes-Cloud
 subtitle : The cloud-blog of Mcubes Group
-tags: [Cloud]
+tags: [Mcubes-Intro]
 author: Mcubes
 comments : True
 ---
@@ -11,8 +11,8 @@ comments : True
 
 Hai All,
 
-This site is full and full created with love and craze on Cloud and Launguages.
-I will try to publish fruitfull contents on this vast Cloud Universe.
+Mcubescloud site is full and full developed with huge love and craze on Cloud & Languages.
+I will try to publish fruitfull contents and topics on this vast Cloud Universe.
 With all your blessing, i am warm welcoming into the space of cloud.
 
 #GodBless
@@ -20,5 +20,5 @@ With all your blessing, i am warm welcoming into the space of cloud.
 
 
 By
-## Mcubes
+# Mcubes
 
