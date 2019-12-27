@@ -26,9 +26,9 @@ theme_settings :
       - skill : Bash Script and Powershell
         value : 95  # Percent value
       - skill : Python and Julia
-        value : 80  # Percent value
+        value : 70  # Percent value
       - skill : CI-CD Tools
-        value : 75  # Percent value
+        value : 80  # Percent value
   # Icons
   icons :
     email: mcubesmdy@gmail.com  # Full email address, e.g. "sample@google.com"
