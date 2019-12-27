@@ -16,7 +16,7 @@
     .tag-cloud{
         margin : 70px 0 30px;
         li{
-            background-color: $theme-color;
+            background-color: $theme-color!important;
             display: inline-block;
             margin-bottom: 10px;
             margin-right : 3px;
