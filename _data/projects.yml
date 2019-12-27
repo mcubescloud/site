@@ -10,7 +10,7 @@
     contents :
         - title : 1. RIMS
           image : design-a-successful-client-meeting.jpg
-          description : <li>NETWORKING :
+          description : >NETWORKING :
  Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring 
 Router and Switches, Switch configuration VLAN, Routing Protocol(RIP,EIGRP,OSPF), 
 TELNET, SSH, ACL, ICMP, HSRP, CDP in Networking,Working knowledge in CISCO switch 
@@ -23,7 +23,7 @@ sharing, VPN, IIS Server backup.
 RED HAT LINUX :
  Knowledge in linux red hat server 7 YUM & RPM Server configuration , SSH, 
 SAMBA server, NFS , APACHE server, MARIADB, Disk Partition, LVM, Network 
-Configuration.</li>
+Configuration.
 contents :
         - title : 2. SG-Ecommerce
           image : design-a-successful-client-meeting.jpg
