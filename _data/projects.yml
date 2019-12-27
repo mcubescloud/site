@@ -10,8 +10,7 @@
     contents :
         - title : 1. RIMS
           image : design-a-successful-client-meeting.jpg
-          description : >-
-	    	<li>Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring</li> 	    	
+          description : <li>Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring</li> 	    	
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
