@@ -9,7 +9,7 @@
     description : Network, Windows and Linux
     contents :
 - title : 1. RIMS
-          image : design-a-successful-client-meeting.jpg
+         # image : design-a-successful-client-meeting.jpg
           description :<li>
 NETWORKING :
  Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring 
