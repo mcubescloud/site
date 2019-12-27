@@ -13,9 +13,12 @@ theme_settings :
     username : Mcubes Mdy
     description : Blogger, Freelauncher, Cloud, Scripting and Developer
     experience :
-      - start : 2017-12-01
+      - start : 2016-12-01
+        end : 2017-04-01
+        experience : KGISL, RIMS
+      - start : 2017-05-01
         end : Till date
-        experience : Puc, L&T. Cloud Engineer
+        experience : PUC, L&T. Cloud Engineer
     skills : 
       - skill : AWS, GCP and AZURE
         value : 90  # Percent value
