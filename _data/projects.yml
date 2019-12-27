@@ -3,14 +3,15 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/mdy007 # Full URL
     #image : "portfolio.png" # path: assets/project/
-    date : 2017-05-01 - till date
-    title : SG-Ecommerce
-    summary : Managing the infra of Ecommerce sites.
-    description : This project is my first dedicated project.  
+    date : 2016-12-01 - 2017-04-01
+    title : RIMS
+    summary : Practical Knowledge of Windows and Linux concepts.
+    description : Network, Windows and Linux
     contents :
-        - title : 1. RIMS
+- title : 1. RIMS
           image : design-a-successful-client-meeting.jpg
-          description : <li>NETWORKING :
+          description :<li>
+NETWORKING :
  Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring 
 Router and Switches, Switch configuration VLAN, Routing Protocol(RIP,EIGRP,OSPF), 
 TELNET, SSH, ACL, ICMP, HSRP, CDP in Networking,Working knowledge in CISCO switch 
@@ -23,9 +24,17 @@ sharing, VPN, IIS Server backup.
 RED HAT LINUX :
  Knowledge in linux red hat server 7 YUM & RPM Server configuration , SSH, 
 SAMBA server, NFS , APACHE server, MARIADB, Disk Partition, LVM, Network 
-Configuration.</li>
-             
-            
+Configuration.
+</li>
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/mdy007 # Full URL
+    #image : "portfolio.png" # path: assets/project/
+    date : 2017-05-01 - till date
+    title : SG-Ecommerce
+    summary : Managing the infra of Ecommerce sites.
+    description : This project is my first dedicated project
     contents :
         - title : 1. SG-Ecommerce
           image : design-a-successful-client-meeting.jpg
