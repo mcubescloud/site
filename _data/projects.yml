@@ -3,20 +3,43 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/mdy007 # Full URL
     #image : "portfolio.png" # path: assets/project/
-    date : 2016-12-01 - 2016-05-01
+    date : 2016-12-01 - 2017-05-01
     title : RIMS
     summary : Practical Knowledge of Linux, Windows and Networking
     description : 
     contents :
         - title : 1. RIMS
           image : design-a-successful-client-meeting.jpg
-          description : <li>Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring</li> 	    	
+          description : <li>Working Knowledge in Designing IP address scheme using Subnets, ARP, VLSM Configuring Router and Switches, Switch configuration VLAN, Routing Protocol(RIP,EIGRP,OSPF),TELNET, SSH, ACL, ICMP, HSRP, CDP in Networking,Working knowledge in CISCO switch 2950,Router 2600,Packet Tracer.</li> 	    	
+                        <li>Well trained in installing and configuration of windows server 2012 R2 with ADDS, DNS, DHCP, User and Group create,GPM, WDS, RAID concepts, Mailserver, Disk Management, File sharing, VPN, IIS Server backup</li>
+                        <li>Knowledge in linux red hat server 7 YUM & RPM Server configuration , SSH, SAMBA server, NFS , APACHE server, MARIADB, Disk Partition, LVM, Network Configuration</li>
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : design-a-successful-client-meeting.jpg
-    date : 2019.06.09 - Developing
+    date : 2017-05-01 - 2018-11-31 
+    title : Infra Engineer for Clients
+    summary : I have handled various clients of different platforms in AWS and AZURE Platform.
+    description :
+    contents :
+        - title : 2. Infra service with clients
+          image : design-a-successful-client-meeting.jpg
+          description : <li>Log Management.</li>
+            <li>User Management</li>
+            <li>Server Utilizations.</li>
+            <li>Cost Optimizations.</li>
+            <li>Security Audit.</li>
+            <li>Pathching.</li>
+            <li>Client Discussion reg. AWS Services</li>
+            <li>Normal Deployments with ASG.</li>
+            
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : design-a-successful-client-meeting.jpg
+    date : 2018-12-01 - 2019-12-31
     title : SG-Ecommerce
     summary : SG is my real time dedicated client , where i have worked from Monitor to deployment
     description :
