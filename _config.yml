@@ -35,6 +35,9 @@ theme_settings :
 
   # Disqus
   disqus_shortname : Mcubes
+  
+  # Search
+  search_full_content: true
 
 # Pagination
 paginate: 5
