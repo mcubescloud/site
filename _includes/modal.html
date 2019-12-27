@@ -23,25 +23,6 @@
         <div class="description">{{ content.description }}</div>
       </div>
       {% endfor %}
-      <div class="header">
-      <p class="date">{{ Search.date }}</p>
-      <p class="title">{{ Serach.title }}</p>
-      <p class="summary">{{ Search.summary }}</p>
-    </div>
-    <div class="content">
-      {% if Search.image %}
-      <img src="{{ site.url }}/assets/project/{{ project.image }}" alt="">
-      {% endif%}
-      <div class="description">{{ Search.description }}</div>
-      {% for content in Search.contents %}
-      <div class="sub-content">
-        <div class="title">{{ content.title }}</div>
-        {% if content.image %}
-        <img src="{{ site.url }}/assets/project/{{ content.image }}" alt="{{ content.title }}">
-        {% endif %}
-        <div class="description">{{ content.description }}</div>
       </div>
-      {% endfor %}
-    </div>
   </div>
 </div>
