@@ -18,9 +18,9 @@ theme_settings :
         experience : Puc, L&T. Cloud Engineer
     skills : 
       - skill : AWS, GCP and AZURE
-              : Docker,kubernetes
         value : 90  # Percent value
-        
+      - skill : Docker, kubernetes
+        value : 90  # Percent value
   # Icons
   icons :
     email: mcubesmdy@gmail.com  # Full email address, e.g. "sample@google.com"
