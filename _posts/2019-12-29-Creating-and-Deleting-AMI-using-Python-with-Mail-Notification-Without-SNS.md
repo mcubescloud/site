@@ -181,16 +181,22 @@ Filters=[
             {'Name': 'tag-key', 'Values': ['backup', 'ami']},
         ]
     
-By using tag, we are labeling instances to be ami taken and we notifying  print "Found %d instances that need backing up" 
+By using tag, we are labeling instances to be ami taken and delete then we doing print "Found %d instances that need backing up" 
 %d denotes to the number of instances where lambda job gonna apply.
 
 To delete the AMI we need Retention period and for the we need create and delete time to be intaken in code, by using below code
-we are assinging the creation and deletion time with respect to the retention period.
-> create_time = datetime.datetime.now()
+we are assinging the creation and deletion time with respect to the retention period. `Deleteon` tag will be added in each AMI and after the retention period with respect to that tag it will be deregistered.
+
+> create_time = datetime.datetime.now() 
             create_fmt = create_time.strftime('%d-%m-%Y')
             create_tm = create_time.strftime('%H.%M.%S')
  delete_date = datetime.date.today() + datetime.timedelta(days=retention_days)
-        delete_fmt = delete_date.strftime('%d-%m-%Y')    
+        delete_fmt = delete_date.strftime('%d-%m-%Y') 
+   Tags=[
+                {'Key': 'DeleteOn', 'Value': delete_fmt},
+                {'Key': 'ami','Value': 'true'}
+               
+            ]
         
 ## Cloudwatch Events
 ![](/assets/cloudwatch-scheduled-event-triggering-lambda.png)
