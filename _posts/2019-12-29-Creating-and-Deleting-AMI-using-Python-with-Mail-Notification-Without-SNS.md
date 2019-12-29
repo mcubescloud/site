@@ -1,5 +1,5 @@
 ---
-title: Debezium MySQL Snapshot From Read Replica With GTID
+title: Mail Notification on Creation and deletion of AMI - Python
 date: 2019-12-29 13:51:00 +0000
 description: Using python in lambda , we are going to see how to automate the ami creation and deletion with email notification 
   without using SNS.
@@ -162,7 +162,7 @@ def lambda_handler(event, context):
  {% endhighlight Python %}
  
  ## Python Flow
-  *We are importing the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python to make use of AWS Services
+We are importing the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python to make use of AWS Services
  ## Notification
 We are starting the script with assinging the Notification via gmail and for this we need a AWS user access and secret keys with respective lambda permission.
 And we are injecting the from and to mail id's to receive the email notifications.Initially we are using the email package to read, write, and send simple email messages, 
@@ -200,7 +200,7 @@ we are assinging the creation and deletion time with respect to the retention pe
 > NOTE:
 We are using Array concept to store the multiple instance id's and AMI id's and by using for loop we are passing to the body of the mail.
 
-{% highlight JSON %}
+{% highlight %}
 deletelist.append("Will delete %d AMIs on %s" % (len(to_tag[retention_days]), delete_fmt))
 .
 .
@@ -217,6 +217,6 @@ totallist= amilist+deletelist
         #print amiTakenList  
         print (finmessage)
     sendMail(finmessage);
-{% endhighlight JSON %}    
+{% endhighlight %}    
 
 Author: Mcubes.
