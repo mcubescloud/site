@@ -162,7 +162,7 @@ def lambda_handler(event, context):
  {% endhighlight Python %}
  
  ## Python Flow
- We are importing the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python to make use of AWS Services
+We are importing the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python to make use of AWS Services
  ## Notification
 We are starting the script with assinging the Notification via gmail and for this we need a AWS user access and secret keys with respective lambda permission.
 And we are injecting the from and to mail id's to receive the email notifications.Initially we are using the email package to read, write, and send simple email messages, 
