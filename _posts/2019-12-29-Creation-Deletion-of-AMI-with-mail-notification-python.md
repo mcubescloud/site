@@ -212,13 +212,11 @@ totallist= amilist+deletelist
             resultMsg=resultMsg+j+ "\n"
             finmessage="Found %d instances that need backing up" % len(instances) + "\n" +resultMsg
         del amilist[:]
-        del deletelist[:]  
+        del deletelist[:]
+         
+        #print amiTakenList  
         print (finmessage)
     sendMail(finmessage);
 {% endhighlight %}    
 
-Author:
-Mcubes.
-
- 
- 
+Author: Mcubes.
