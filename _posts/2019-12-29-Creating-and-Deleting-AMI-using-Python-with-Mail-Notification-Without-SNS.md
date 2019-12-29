@@ -1,5 +1,5 @@
 ---
-title: Mail Notification on Creation and deletion of AMI-Python
+title: Mail Notification on Creation and deletion of AMI using Python
 date: 2019-12-29 13:51:00 +0000
 description: Using python in lambda , we are going to see how to automate the ami creation and deletion with email notification 
   without using SNS.
@@ -161,9 +161,9 @@ def lambda_handler(event, context):
     sendMail(finmessage);
  {% endhighlight Python %}
  
- ## Python Flow
+## Python Flow
 We are importing the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python to make use of AWS Services
- ## Notification
+## Notification
 We are starting the script with assinging the Notification via gmail and for this we need a AWS user access and secret keys with respective lambda permission.
 And we are injecting the from and to mail id's to receive the email notifications.Initially we are using the email package to read, write, and send simple email messages, 
 as well as more complex MIME messages.
@@ -171,6 +171,7 @@ as well as more complex MIME messages.
 from email.MIMEBase import MIMEBase  
 from email.MIMEText import MIMEText  
 from email import Encoders.
+
 ## AMI Creation and Deletion
 We are creating and deletion the AMI with retention period of time and for eg., If the ami is taken and its retention period is set as 5 days,
 while creating itself the ami is said to be de-register or delete after 5days.
@@ -219,4 +220,4 @@ totallist= amilist+deletelist
     sendMail(finmessage);
 {% endhighlight Python %}    
 
-Author: Mcubes.
+> Author: Mcubes.
