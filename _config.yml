@@ -48,6 +48,9 @@ theme_settings :
   # Disqus
   disqus_shortname : Mcubes
   
+  #google_analytics
+  google_analytics: "UA-154897508-1"
+  
   # Search
   search_full_content: true
 
