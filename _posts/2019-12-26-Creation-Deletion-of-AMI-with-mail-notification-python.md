@@ -27,10 +27,10 @@ we are going to see about Sending a notification of AMI creation and deletion vi
 
 ## Python Code
 {% highlight Python %}
-# script will search for all instances having a tag with "backup" or "ami" on it
-# Replace your Region to take ami
-# Replace your Retention value 
-# Replace your SES credentials
+#script will search for all instances having a tag with "backup" or "ami" on it
+#Replace your Region to take ami
+#Replace your Retention value 
+#Replace your SES credentials
 import boto3 
 import collections 
 import datetime 
