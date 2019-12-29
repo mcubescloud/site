@@ -1,5 +1,5 @@
 ---
-title: Mail Notification on Creation and deletion of AMI - Python
+title: Mail Notification on Creation and deletion of AMI-Python
 date: 2019-12-29 13:51:00 +0000
 description: Using python in lambda , we are going to see how to automate the ami creation and deletion with email notification 
   without using SNS.
@@ -200,7 +200,7 @@ we are assinging the creation and deletion time with respect to the retention pe
 > NOTE:
 We are using Array concept to store the multiple instance id's and AMI id's and by using for loop we are passing to the body of the mail.
 
-{% highlight %}
+{% highlight Python %}
 deletelist.append("Will delete %d AMIs on %s" % (len(to_tag[retention_days]), delete_fmt))
 .
 .
@@ -217,6 +217,6 @@ totallist= amilist+deletelist
         #print amiTakenList  
         print (finmessage)
     sendMail(finmessage);
-{% endhighlight %}    
+{% endhighlight Python %}    
 
 Author: Mcubes.
