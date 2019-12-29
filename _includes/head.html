@@ -31,6 +31,11 @@
   {% else %}
   {% assign title = site.theme_settings.title %}
   {% endif %}
+  
+  {% include head-custom.html %}
+  <link rel="stylesheet" href="/assets/css/applause-button.css" />
+   <script src="/assets/js/applause-button.js"></script>
+  
   <meta name="title" content="{{ title }}" />
   <meta name="author" content="{{ site.theme_settings.profile.username }}" />
   <meta name="keywords" content="{{ page.tags | join: ',' }}" />
