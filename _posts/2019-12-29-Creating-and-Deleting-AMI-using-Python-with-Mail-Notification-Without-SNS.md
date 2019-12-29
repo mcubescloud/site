@@ -195,8 +195,7 @@ we are assinging the creation and deletion time with respect to the retention pe
    Tags=[
                 {'Key': 'DeleteOn', 'Value': delete_fmt},
                 {'Key': 'ami','Value': 'true'}
-               
-            ]
+               ]
         
 ## Cloudwatch Events
 ![](/assets/cloudwatch-scheduled-event-triggering-lambda.png)
