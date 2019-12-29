@@ -10,16 +10,28 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/getProfileImage.png
-    username : Mcubes Mdy
-    description : Blogger, Freelauncher, Cloud, Scripting and Developer
+    username : Mohamed.S
+    description : Blogger, Freelauncher, Cloud, Scripting, Operations and Python-Julia Learner.
     experience :
-      - start : 2017-12-01
+      - start : 2016-12-01
+        end : 2017-04-01
+        experience : KGISL, RIMS
+      - start : 2017-05-01
         end : Till date
-        experience : L&T, Cloud Engineer
+        experience : PUC, L&T. Cloud Engineer
     skills : 
-      - skill : Cloud, CICD, Script & Full Stack
+      - skill : AWS, GCP and AZURE
         value : 90  # Percent value
-        
+      - skill : Docker, kubernetes
+        value : 90  # Percent value
+      - skill : Windows, Linux
+        value : 90  # Percent value
+      - skill : Bash Script and Powershell
+        value : 95  # Percent value
+      - skill : Python and Julia
+        value : 70  # Percent value
+      - skill : CI-CD Tools
+        value : 80  # Percent value
   # Icons
   icons :
     email: mcubesmdy@gmail.com  # Full email address, e.g. "sample@google.com"
