@@ -5,7 +5,7 @@ url : "https://mcubescloud.tk"
 # Blog Settings
 theme_settings :
   title : MCUBES-Cloud
-  favicon : assets/Logopit_1577679527737
+  favicon : assets/Logopit_1577679527737.ico
 
   # Profile Settings
   profile :
