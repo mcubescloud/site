@@ -3,6 +3,7 @@ layout: post
 title: Welcome to Mcubes-Cloud
 subtitle : The cloud-blog of Mcubes Group
 tags: [Mcubes-Intro]
+image: "/assets/WELCOME-ST-IVES.jpg"
 author: Mcubes
 comments : True
 ---
