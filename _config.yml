@@ -58,6 +58,7 @@ theme_settings :
 paginate: 5
 paginate_path: "blog/page:num"
 
+
 # Build Ssttings
 sass:
   sass_dir: _sass
@@ -65,3 +66,8 @@ sass:
 gems: [jekyll-paginate]
 bootstrap:
   assets: true
+footer_links:
+  - title: Linkedin
+    url: https://www.linkedin.com/in/mohamed-s-98669774/
+    icon: linkedin
+copyright: "©2019 Mcubes All Right Reserved. "
