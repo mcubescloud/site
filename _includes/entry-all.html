@@ -1,0 +1,14 @@
+{% if entry.id %}
+  {% assign title = entry.title | markdownify | strip_html %}
+{% else %}
+  {% assign title = entry.title %}
+{% endif %}
+
+<article class="entry h-entry">
+  <header class="entry-header">
+{% if site.read_time or entry.date and page.layout != 'collection' %}
+    <footer class="entry-meta">
+      {% if site.read_time %}{% include read-time.html %}{% endif %}
+      </footer>
+        {% endif %}
+</article>
