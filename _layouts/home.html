@@ -34,7 +34,7 @@ layout: default
                 <span class="meta">
                   {{ post.date | date: "%B %-d, %Y" }}
                 </span>
-                <span id="etawrap" class='eta'/> 
+                {% include read-time.js %} 
                 <ul class="tag-wrap">
                   {% for tag in post.tags %}
                   <a href="{{site.baseurl}}/tags#{{ tag | cgi_escape }}">
