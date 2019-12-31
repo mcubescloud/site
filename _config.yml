@@ -48,9 +48,7 @@ theme_settings :
     youtube:
     facebook:
     instagram:
-    
-  # Front Matter Defaults
-    defaults:
+  
   # Posts defaults
   - scope:
       path: "_posts"
