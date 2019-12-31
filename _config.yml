@@ -49,6 +49,7 @@ theme_settings :
     facebook:
     instagram:
     
+  # Front Matter Defaults
     defaults:
   # Posts defaults
   - scope:
