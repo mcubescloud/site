@@ -48,6 +48,15 @@ theme_settings :
     youtube:
     facebook:
     instagram:
+    
+    defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
 
   # Disqus
   disqus_shortname : Mcubes
