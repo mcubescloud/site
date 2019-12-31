@@ -7,13 +7,13 @@ author: Mcubes
 comments : True
 ---
 
->- Wish you happy NEW YEAR to all my friends and well wishers around the globe.
+* Wish you happy NEW YEAR to all my friends and well wishers around the globe.
 
->- Don’t regret your past because the best one yet to come, welcome 2020 with hugs and love ..
+* Don’t regret your past because the best one yet to come, welcome 2020 with hugs and love ..
 
->- Sure in 2020 MCUBES will try our level best post some fruitfull and usefull blogs,
+* Sure in 2020 MCUBES will try our level best to post some fruitfull and usefull blogs,
 
->- Keep supporting us,
+* Keep supporting us,
 
 > Newyear Wishes,
 Mcubes.
