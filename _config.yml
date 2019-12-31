@@ -8,7 +8,7 @@ mathjax: true
 
 # Blog Settings
 theme_settings :
-  title : "MCUBES-Cloud"
+  #title : "MCUBES-Cloud"
   favicon : assets/Logo.ico
 
   # Profile Settings
