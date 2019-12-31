@@ -31,7 +31,6 @@ layout: default
                 {% endif %}
               </p>
               <div>
-                {% include read-time.html %}
                 <span class="meta">
                   {{ post.date | date: "%B %-d, %Y" }}
                 </span>
@@ -44,6 +43,7 @@ layout: default
                 </ul>
               </div>
             </div>
+            {% include read-time.html %}
             {% if post.image %}
             <div class="img-wrap">
               <img src="{{ post.image }}" alt="">
