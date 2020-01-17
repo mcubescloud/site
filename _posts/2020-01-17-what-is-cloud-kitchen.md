@@ -16,21 +16,17 @@ A cloud restaurant is a delivery-only food outlet, also known as dark kitchen/re
 
 Cloud restaurants operate as a production unit with a space for the preparation of food. Cloud kitchen provide no dine-in or takeaway facility. Customers can only order food from restaurant apps.
 
-The reasons behind the overwhelming success of cloud kitchen concept are:
-
-* Low investment cost
-* Speed in service
-* Customer feedback to better performance
-* low infrastructure cost
-
-
 With food aggregators like **Zomato, Swiggy & Uber Eats** taking complete responsibility of online deliveries, restaurants can now focus on just food as they don’t have to manage delivery boys or worry about expensive rentals & outlet rush. The cloud kitchen normally lists itself on third party apps and can have their own online ordering websites & apps (& save commissions).
 
 Here’s an infographic on how different Cloud Kitchen Business Model’s work :
 
 ![](/assets/ck3.png)
 
-Why should you go in for a cloud kitchen?
+The reasons behind the overwhelming success of cloud kitchen concept are:
+
+* Low investment cost
+* Speed in service
+* Customer feedback to better performance
 
 ## Low investment cost
 
@@ -40,12 +36,10 @@ With high investment needed n the infra front, it is far more convenient to oper
 
 You can rely on 3rd party delivery systems if you do not have staff particularly kept for delivering. If you’ve kitchens in multiple locations, the food can be served hot and fast with a much lower delivery time.
 
-More contextual customer data
-
-
 ## Customer feedback to better performance
 
 Cloud kitchens work the best when combined with technology. Having your own order online system or a mobile app lets you collect crucial customer data that helps in further engagement with your customers as well as newer menu planning.
 
+## Reference:
 Read everything about cloud kitchens (costs of opening one, legal requirements, marketing details and more) here - [Complete guide to cloud kitchens](https://limetray.com/blog/cloud-kitchen-business-model/?utm_campaign=aditya&utm_medium=social&utm_source=quora)
 
