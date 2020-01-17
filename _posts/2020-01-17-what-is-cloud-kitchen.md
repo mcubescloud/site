@@ -6,7 +6,7 @@ tags:
 - Cloud-Kitchen
 - swiggy
 - zomato
-image: "/assets/logo.png"
+image: "/assets/ck2.png"
 
 ---
 ![](/assets/ck.jpg)
@@ -23,11 +23,12 @@ The reasons behind the overwhelming success of cloud kitchen concept are:
 * Customer feedback to better performance
 * low infrastructure cost
 
-With food aggregators like Zomato, Swiggy & Uber Eats taking complete responsibility of online deliveries, restaurants can now focus on just food as they don’t have to manage delivery boys or worry about expensive rentals & outlet rush. The cloud kitchen normally lists itself on third party apps and can have their own online ordering websites & apps (& save commissions).
 
-Here’s an infographic on how different Cloud Kitchen Business Model’s work -
+With food aggregators like **Zomato, Swiggy & Uber Eats** taking complete responsibility of online deliveries, restaurants can now focus on just food as they don’t have to manage delivery boys or worry about expensive rentals & outlet rush. The cloud kitchen normally lists itself on third party apps and can have their own online ordering websites & apps (& save commissions).
 
-![](/assets/ck1.png)
+Here’s an infographic on how different Cloud Kitchen Business Model’s work :
+
+![](/assets/ck3.png)
 
 Why should you go in for a cloud kitchen?
 
