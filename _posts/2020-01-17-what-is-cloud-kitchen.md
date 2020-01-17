@@ -6,7 +6,7 @@ tags:
 - Cloud-Kitchen
 - swiggy
 - zomato
-image: "/assets/ck2.png"
+image: "/assets/ck2.jpg"
 
 ---
 ![](/assets/ck.jpg)
