@@ -47,5 +47,5 @@ More contextual customer data
 
 Cloud kitchens work the best when combined with technology. Having your own order online system or a mobile app lets you collect crucial customer data that helps in further engagement with your customers as well as newer menu planning.
 
-Read everything about cloud kitchens (costs of opening one, legal requirements, marketing details and more) here - Complete guide to cloud kitchens
+Read everything about cloud kitchens (costs of opening one, legal requirements, marketing details and more) here - [Complete guide to cloud kitchens](https://limetray.com/blog/cloud-kitchen-business-model/?utm_campaign=aditya&utm_medium=social&utm_source=quora)
 
