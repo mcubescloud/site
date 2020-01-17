@@ -27,7 +27,7 @@ With food aggregators like Zomato, Swiggy & Uber Eats taking complete responsibi
 
 Here’s an infographic on how different Cloud Kitchen Business Model’s work -
 
-![](/assets/ck1.jpg)
+![](/assets/ck1.png)
 
 Why should you go in for a cloud kitchen?
 
