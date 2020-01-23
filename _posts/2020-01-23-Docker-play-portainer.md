@@ -5,7 +5,7 @@ description: We will see about the usage of Docker play and Portainer
 tags:
 - DockerPlay
 - Portainer.io
-image: "/assets/doc0.png"
+image: "/assets/docc.png"
 
 ---
 The Play with Docker brings you labs that help you get hands-on experience using Docker. In this docker play you will find a mix of labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers. There is a mix of hands-on tutorials right in the browser, instructions on setting up and using Docker in your own environment, and resources about best practices for developing and deploying your own applications.
