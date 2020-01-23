@@ -72,10 +72,10 @@ Deploy Portainer Agent on a standalone Windows Server 2016 Docker Host
 
 ## And more deployment scenarios
 
-To see how to use our Edge compute agent, see the user guides here: [](https://downloads.portainer.io/edge_agent_guide.pdf)
+To see how to use our Edge compute agent, see the user guides here: ![](https://downloads.portainer.io/edge_agent_guide.pdf)
 
-For a list of our most frequently asked questions, please see here: [](https://portainer.readthedocs.io/en/stable/faq.html)
+For a list of our most frequently asked questions, please see here: ![](https://portainer.readthedocs.io/en/stable/faq.html)
 
-Have a look at our installation documentation for more deployment scenarios such as Portainer with data persistence, TLS authentication enabled engine, non-Docker setup or reverse proxy integrations.[](https://portainer.readthedocs.io/en/stable/deployment.html)
+Have a look at our installation documentation for more deployment scenarios such as Portainer with data persistence, TLS authentication enabled engine, non-Docker setup or reverse proxy integrations.![](https://portainer.readthedocs.io/en/stable/deployment.html)
 
 
