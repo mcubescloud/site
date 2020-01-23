@@ -20,7 +20,7 @@ We have template option where we can create setup of manager and workers virtual
 We have 4hrs of timing to use our Virtual machines for labs
 ![](/assets/doc2.PNG)
 
-##Labs
+## Labs
 
 Stop playing with PubG, Start to play with docker ;)
 ![](/assets/doc3.PNG)
@@ -64,11 +64,11 @@ You'll just need to access the port 9000 of the Docker engine where portainer is
 
 Deploy Portainer Agent on a remote LINUX Swarm Cluster as a Swarm Service, run this command on a manger node in the remote cluster.
 
-$ docker service create --name portainer_agent --network portainer_agent_network --publish mode=host,target=9001,published=9001 -e AGENT_CLUSTER_ADDR=tasks.portainer_agent --mode global --mount type=bind,src=//var/run/docker.sock,dst=/var/run/docker.sock --mount type=bind,src=//var/lib/docker/volumes,dst=/var/lib/docker/volumes –-mount type=bind,src=/,dst=/host portainer/agent
+> $ docker service create --name portainer_agent --network portainer_agent_network --publish mode=host,target=9001,published=9001 -e AGENT_CLUSTER_ADDR=tasks.portainer_agent --mode global --mount type=bind,src=//var/run/docker.sock,dst=/var/run/docker.sock --mount type=bind,src=//var/lib/docker/volumes,dst=/var/lib/docker/volumes –-mount type=bind,src=/,dst=/host portainer/agent
 
 Deploy Portainer Agent on a standalone Windows Server 2016 Docker Host
 
-$ docker run -d -p 9001:9001 --name portainer_agent --restart=always -v \\.\pipe\docker_engine:\\.\pipe\docker_engine portainer/agent
+> $ docker run -d -p 9001:9001 --name portainer_agent --restart=always -v \\.\pipe\docker_engine:\\.\pipe\docker_engine portainer/agent
 
 ## And more deployment scenarios
 
