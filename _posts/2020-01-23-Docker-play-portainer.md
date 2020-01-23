@@ -18,12 +18,12 @@ We have template option where we can create setup of manager and workers virtual
 ## Timing
 
 We have 4hrs of timing to use our Virtual machines for labs
-![](/assets/doc1.PNG)
+![](/assets/doc3.PNG)
 
 ## Labs
 
 Stop playing with PubG, Start to play with docker ;)
-![](/assets/doc3.PNG)
+![](/assets/doc1.PNG)
 
 ## Portainer.io
 
