@@ -5,7 +5,7 @@ description: We will see about the usage of Docker play and Portainer
 tags:
 - DockerPlay
 - Portainer.io
-image: "/assets/docc.png"
+image: "/assets/doc0.png"
 
 ---
 The Play with Docker brings you labs that help you get hands-on experience using Docker. In this docker play you will find a mix of labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers. There is a mix of hands-on tutorials right in the browser, instructions on setting up and using Docker in your own environment, and resources about best practices for developing and deploying your own applications.
@@ -72,10 +72,10 @@ Deploy Portainer Agent on a standalone Windows Server 2016 Docker Host
 
 ## And more deployment scenarios
 
-To see how to use our Edge compute agent, see the user guides here: ![](https://downloads.portainer.io/edge_agent_guide.pdf)
+[To see how to use our Edge compute agent, see the user guides here](https://downloads.portainer.io/edge_agent_guide.pdf)
 
-For a list of our most frequently asked questions, please see here: ![](https://portainer.readthedocs.io/en/stable/faq.html)
+[For a list of our most frequently asked questions, please see here](https://portainer.readthedocs.io/en/stable/faq.html)
 
-Have a look at our installation documentation for more deployment scenarios such as Portainer with data persistence, TLS authentication enabled engine, non-Docker setup or reverse proxy integrations.![](https://portainer.readthedocs.io/en/stable/deployment.html)
+[Have a look at our installation documentation for more deployment scenarios such as Portainer with data persistence, TLS authentication enabled engine, non-Docker setup or reverse proxy integrations.](https://portainer.readthedocs.io/en/stable/deployment.html)
 
 
