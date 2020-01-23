@@ -13,16 +13,16 @@ The Play with Docker brings you labs that help you get hands-on experience using
 ## Template
 
 We have template option where we can create setup of manager and workers virtual machines.
-![](/assets/doc1.png)
+![](/assets/doc1.PNG)
 
 ## Timing
 
 We have 4hrs of timing to use our Virtual machines for labs
-![](/assets/doc2.png)
+![](/assets/doc2.PNG)
 #Labs
 
 Stop playing with PubG, Start to play with docker ;)
-![](/assets/doc3.png)
+![](/assets/doc3.PNG)
 
 ## Portainer.io
 
