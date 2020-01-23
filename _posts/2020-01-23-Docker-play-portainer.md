@@ -43,8 +43,8 @@ Deploy Portainer Server on a standalone LINUX Docker host/single node swarm clus
 
 Use the following Docker commands to deploy the Portainer Server; note the agent is not needed on standalone hosts, however it does provide additional functionality if used (see portainer and agent scenario below):
 
-![](/assets/doc4.PNG)
-![](/assets/doc5.PNG)
+![](/assets/doc4.jpg)
+![](/assets/doc5.png)
 
 
 > $ docker volume create portainer_data
