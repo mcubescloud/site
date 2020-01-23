@@ -23,6 +23,7 @@ We have 4hrs of timing to use our Virtual machines for labs
 ## Labs
 
 Stop playing with PubG, Start to play with docker ;)
+[https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
 ![](/assets/doc1.PNG)
 
 ## Portainer.io
