@@ -19,7 +19,8 @@ We have template option where we can create setup of manager and workers virtual
 
 We have 4hrs of timing to use our Virtual machines for labs
 ![](/assets/doc2.PNG)
-#Labs
+
+##Labs
 
 Stop playing with PubG, Start to play with docker ;)
 ![](/assets/doc3.PNG)
@@ -31,7 +32,7 @@ Portainer is a simple management solution for Docker. It consists of a web UI th
 It is a user-interface of Docker management, i should create a sepearte post for portainer, In this blog i will quote some basics.
 
 
-**How simple is it to deploy Portainer?**
+## How simple is it to deploy Portainer?
 
 Portainer installation using Docker
 
@@ -42,19 +43,18 @@ Deploy Portainer Server on a standalone LINUX Docker host/single node swarm clus
 
 Use the following Docker commands to deploy the Portainer Server; note the agent is not needed on standalone hosts, however it does provide additional functionality if used (see portainer and agent scenario below):
 
-{% highlight Docker %}
-$ docker volume create portainer_data
+
+> $ docker volume create portainer_data
 $ docker run -d -p 8000:8000 -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer
-{% endhighlight Docker %}
 You'll just need to access the port 9000 of the Docker engine where portainer is running using your browser.
 
 > Note: the -v /var/run/docker.sock:/var/run/docker.sock option can be used in Linux environments only.
 
 Deploy Portainer Server on a standalone WINDOWS Docker Host (running Windows Containers) – note must be Windows 1803 or newer.
-{% highlight Docker %}
-$ docker volume create portainer_data
+
+> $ docker volume create portainer_data
 $ docker run -d -p 8000:8000 -p 9000:9000 --name portainer --restart always -v \\.\pipe\docker_engine:\\.\pipe\docker_engine -v portainer_data:C:\data portainer/portainer
-{% endhighlight Docker %}
+
 
 You'll just need to access the port 9000 of the Docker engine where portainer is running using your browser.
 
