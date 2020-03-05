@@ -39,10 +39,10 @@ Further, running data centers takes huge amounts of energy. In short, we are abo
 <td><100</td>
 </tr>
 <tr style="text-align:center;">
-<td style="background-color:rgba(183,223,182,0.4);">Data retention<br />(years)</td>
-<td style="background-color:rgba(183,223,182,0.4);">>10</td>
-<td style="background-color:rgba(183,223,182,0.4);">>10</td>
-<td style="background-color:rgba(183,223,182,0.4);">>100</td>
+<td style="background-color:rgba(173,223,182,0.4);">Data retention<br />(years)</td>
+<td style="background-color:rgba(173,223,182,0.4);">>10</td>
+<td style="background-color:rgba(173,223,182,0.4);">>10</td>
+<td style="background-color:rgba(173,223,182,0.4);">>100</td>
 </tr>
 <tr style="text-align:center;">
 <td>Power usage<br />(watts per gigabyte)</td>
@@ -51,10 +51,10 @@ Further, running data centers takes huge amounts of energy. In short, we are abo
 <td><10<sup>-10</sup></td>
 </tr>
 <tr style="text-align:center;">
-<td style="background-color:rgba(183,223,182,0.4);">Data density<br />(bits per cm<sup>3</sup>)</td>
-<td style="background-color:rgba(183,223,182,0.4);">~10<sup>13</sup></td>
-<td style="background-color:rgba(183,223,182,0.4);">~10<sup>16</sup></td>
-<td style="background-color:rgba(183,223,182,0.4);">~10<sup>19</sup></td>
+<td style="background-color:rgba(173,223,182,0.4);">Data density<br />(bits per cm<sup>3</sup>)</td>
+<td style="background-color:rgba(173,223,182,0.4);">~10<sup>13</sup></td>
+<td style="background-color:rgba(173,223,182,0.4);">~10<sup>16</sup></td>
+<td style="background-color:rgba(173,223,182,0.4);">~10<sup>19</sup></td>
 </tr>
 </tbody>
 </table>
@@ -70,3 +70,11 @@ Further, running data centers takes huge amounts of energy. In short, we are abo
 <li>High cost.</li>
 <li>DNA is significantly harder and slower to read than conventional computer transistors i.e., in terms of access speed it is actually less RAM-like than our average computer SSD or spinning magnetic hard-drive.</li>
 </ul>
+
+## DNA PATTERN
+An alternative to hard drives is progressing: DNA-based data storage. DNA—which consists of long chains of the nucleotides A, T, C and G—is life’s information-storage material. Data can be stored in the sequence of these letters, turning DNA into a new form of information technology. It is already routinely sequenced (read), synthesized (written to) and accurately copied with ease. DNA is also incredibly stable, as has been demonstrated by the complete genome sequencing of a fossil horse that lived more than 500,000 years ago. And storing it does not require much energy.
+
+But it is the storage capacity that shines. DNA can accurately stow massive amounts of data at a density far exceeding that of electronic devices. The simple bacterium Escherichia coli, for instance, has a storage density of about 1019 bits per cubic centimeter, according to calculations published in 2016 in Nature Materials by George Church of Harvard University and his colleagues. At that density, all the world’s current storage needs for a year could be well met by a cube of DNA measuring about one meter on a side.
+
+## CONCLUSION 
+Among the challenges to making DNA data storage commonplace are the costs and speed of reading and writing DNA, which need to drop even further if the approach is to compete with electronic storage. Even if DNA does not become a ubiquitous storage material, it will almost certainly be used for generating information at entirely new scales and preserving certain types of data over the long term.
