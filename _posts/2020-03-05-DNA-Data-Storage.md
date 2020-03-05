@@ -1,11 +1,10 @@
 ---
-title: Do you know Docker Play and Portainer ?
-date: 2020-01-23 05:00:00 +0000
-description: We will see about the usage of Docker play and Portainer
+title: DNA DATA STORAGE
+date: 2020-03-05 12:40:00 +0000
+description: Could DNA as an archival medium be the solution to our information overload?
 tags:
-- DockerPlay
-- Portainer.io
-image: "/assets/doc0.png"
+- DNA-DATA-STORAGE
+image: "/assets/DNA.jpg"
 
 ---
 We may all have storage devices like SSDs, flash memory devices and SD cards of different capacities
