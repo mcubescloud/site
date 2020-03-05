@@ -7,6 +7,7 @@ tags:
 image: "/assets/DNA.jpg"
 
 ---
+![DNA]({{ site.baseurl }}/assets/frontdna.jpeg)
 We may all have storage devices like SSDs, flash memory devices and SD cards of different capacities
 but we might need a new storage device as they all get full with time but now we may not have to worry about their capacities as the Scientists at New York Genome Center have come up with a new way to encode digital data in DNA to create the highest density large scale data storage scheme ever invented. 
 It is capable of storing 215 petabytes (215 million gigabytes) in a single gram of DNA(It means it could store every bit of datum ever recorded by humans in a container about the size and weight of a couple of pickup trucks) and it could potentially last for hundreds of thousands of years. 
