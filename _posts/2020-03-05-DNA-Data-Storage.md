@@ -66,7 +66,7 @@ Further, running data centers takes huge amounts of energy. In short, we are abo
 <li>As long as human societies are reading and writing DNA, they will be able to decode it.</li>
 <li>DNA won’t degrade over time like cassette tapes and CDs, and it won’t become obsolete.</li>
 </ul>
-<h4<strong>Disadvantages:</strong></h4>
+<h2><strong>Disadvantages:</strong></h2>
 <ul>
 <li>High cost.</li>
 <li>DNA is significantly harder and slower to read than conventional computer transistors i.e., in terms of access speed it is actually less RAM-like than our average computer SSD or spinning magnetic hard-drive.</li>
