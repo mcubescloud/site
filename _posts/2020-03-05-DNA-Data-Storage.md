@@ -20,7 +20,7 @@ By now(2020) an estimated 1.7 megabytes of data will be created per second per p
 The magnetic or optical data-storage systems that currently hold this volume of 0s and 1s typically cannot last for more than a century, if that. 
 Further, running data centers takes huge amounts of energy. In short, we are about to have a serious data-storage problem that will only become more severe over time.
 
-<H2><strong>Advantages:</strong></H2>
+<h2><strong>Advantages:</strong></h2>
 <h3>Storage Limits</h3>
 <p>Estimates based on bacterial genetics suggest that digital DNA could one day rival or exceed today&#8217;s storage technology.</p>
 <table width="100%" style="table-layout:fixed;">
@@ -66,7 +66,7 @@ Further, running data centers takes huge amounts of energy. In short, we are abo
 <li>As long as human societies are reading and writing DNA, they will be able to decode it.</li>
 <li>DNA won’t degrade over time like cassette tapes and CDs, and it won’t become obsolete.</li>
 </ul>
-<H4><strong>Disadvantages:</strong></H4>
+<h4<strong>Disadvantages:</strong></h4>
 <ul>
 <li>High cost.</li>
 <li>DNA is significantly harder and slower to read than conventional computer transistors i.e., in terms of access speed it is actually less RAM-like than our average computer SSD or spinning magnetic hard-drive.</li>
