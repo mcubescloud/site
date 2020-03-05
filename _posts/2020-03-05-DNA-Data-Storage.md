@@ -20,7 +20,7 @@ By now(2020) an estimated 1.7 megabytes of data will be created per second per p
 The magnetic or optical data-storage systems that currently hold this volume of 0s and 1s typically cannot last for more than a century, if that. 
 Further, running data centers takes huge amounts of energy. In short, we are about to have a serious data-storage problem that will only become more severe over time.
 
-<p><strong>Advantages:</strong></p>
+<H2><strong>Advantages:</strong></H2>
 <h3>Storage Limits</h3>
 <p>Estimates based on bacterial genetics suggest that digital DNA could one day rival or exceed today&#8217;s storage technology.</p>
 <table width="100%" style="table-layout:fixed;">
