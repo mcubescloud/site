@@ -44,7 +44,7 @@
     summary : SG is my real time dedicated client , where i have worked from Monitor to deployment
     description :
     contents :
-        - title : 2. SG-Ecommerce
+        - title : 3. SG-Ecommerce
           image : design-a-successful-client-meeting.jpg
           description : <li>Worked as Cloud Engineer.</li>
             <li>Troubleshooted the server and cloud operations.</li> 
@@ -53,3 +53,25 @@
             <li>Apart from Ecommerce, Maintained log, Utilization management infra and AWS level.</li>
             <li>Lover of Python and Julia.</li>
             <li>Basic learner of vast cloud universe.</li>
+            
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    #image : design-a-successful-client-meeting.jpg
+    date : 2020-01-22 - present
+    title : Cloud/Dev - Ops
+    summary : IAAS to Cloud/Dev-Ops
+    description :
+    contents :
+        - title : 4. Cloud/Dev-Ops Engineer
+          image : design-a-successful-client-meeting.jpg
+          description : <li>Worked as Cloud/Dev-Ops Engineer.</li>
+            <li>Automation of manual tasks using Ansible.</li> 
+            <li>Focused on Application flow and Scripting works using Bash and Python.</li> 
+            <li>Implement and maintain CI/CD pipelines and Tools in Production Servers and Applications.</li>
+            <li>Monitoring the Application and Server level metrics using Cloudwatch and Stackdriver.</li>
+            <li>Responsible for Production servers and its Maintenance</li>
+            <li>Experience with installation and performance tuning of Hadoop clusters including benchmarking a Hadoop cluster, supporting HA Namenodes, balancing HDFS block data and Datanode adding and decommissioning in a secure HIPAA environment</li>
+            <li>Learning more about Hadoop and Solr concepts</li>
+            
