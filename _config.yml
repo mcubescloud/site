@@ -23,6 +23,9 @@ theme_settings :
       - start : 2017-05-01
         end : Till date
         experience : PUC, L&T. Cloud Engineer
+      - start : 2020-01-22
+        end : Present
+        experience : Vanenburg Software, CloudOps Engineer   
     skills : 
       - skill : AWS, GCP and AZURE
         value : 90  # Percent value
