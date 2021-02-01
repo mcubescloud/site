@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://mcubescloud.tk/"
+url : "http://blog.mcubescloud.in/"
 date_format: "%Y-%m-%d"
 read_time: true
 words_per_minute: 200
