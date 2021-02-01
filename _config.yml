@@ -24,8 +24,11 @@ theme_settings :
         end : 2020-01-20
         experience : PUC, L&T. Cloud Engineer
       - start : 2020-01-22
+        end : 2021-01-15
+        experience : Vanenburg Software, CloudOps Engineer
+      - start : 2021-02-01
         end : Present
-        experience : Vanenburg Software, CloudOps Engineer   
+        experience : Legato - An Anthem Company, Software Engineer - DevOps 
     skills : 
       - skill : AWS, GCP and AZURE
         value : 90  # Percent value
