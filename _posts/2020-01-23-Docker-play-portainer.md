@@ -1,6 +1,6 @@
 ---
 title: Do you know Docker Play and Portainer ?
-date: 2020-01-23 05:00:00 +0000
+date: 2021-01-23 05:00:00 +0000
 description: We will see about the usage of Docker play and Portainer
 tags:
 - DockerPlay
