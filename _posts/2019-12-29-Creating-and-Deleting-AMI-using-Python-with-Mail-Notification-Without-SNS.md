@@ -1,6 +1,6 @@
 ---
 title: Mail Notification on Creation and deletion of AMI without SNS using Python
-date: 2019-12-29 13:51:00 +0000
+date: 2021-05-01 13:51:00 +0000
 description: Using python in lambda , we are going to see how to automate the ami creation and deletion with email notification 
   without using SNS.
 tags:
